@@ -1,0 +1,8 @@
+{
+  "name": "itufullstack/php-task-manager",
+  "description": "Secure modular PHP task manager",
+  "require": {},
+  "scripts": {
+    "lint": "find . -name '*.php' -exec php -l {} \\;"
+  }
+}
