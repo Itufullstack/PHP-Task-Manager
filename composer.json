@@ -1,6 +1,7 @@
 {
   "name": "itufullstack/php-task-manager",
   "description": "Secure modular PHP task manager",
+  "license": "MIT",
   "require": {},
   "scripts": {
     "lint": "find . -name '*.php' -exec php -l {} \\;"
